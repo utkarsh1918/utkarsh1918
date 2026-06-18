@@ -1,135 +1,189 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">Java Backend Developer | Data Analytics Enthusiast | B.Tech CSE Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Data+Analytics+Enthusiast;Power+BI+%7C+Microsoft+Fabric;Always+Learning+New+Technologies" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=UTKARSH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Backend%20Developer&descAlignY=58" />
+
+# 👋 Welcome to My GitHub
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Data+Engineer+%F0%9F%9A%80;Backend+Developer+%E2%98%95;Microsoft+Fabric+Specialist+%F0%9F%93%8A;Building+Scalable+Data+Platforms;Transforming+Data+Into+Business+Insights" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Java Backend Developer with hands-on industry experience
-- 🔐 Experienced in Spring Security & JWT Authentication
-- 🌐 Building scalable RESTful APIs using Spring Boot
-- 📊 Interested in Data Analytics, Power BI, Microsoft Fabric & Databricks
-- 🤖 Exploring AI, Machine Learning & Generative AI
-- 📚 Strong foundation in Data Structures & Algorithms
-- 📝 Published Research Paper: **Police Face Recognition System**
-- 🎓 B.Tech Computer Science & Engineering @ Lovely Professional University
+I am a passionate **Data Engineer and Backend Developer** with expertise in designing scalable data platforms, building ETL/ELT pipelines, and developing analytics solutions that drive business decisions.
+
+Currently associated with **Growthera Ventures**, where I work on modern data engineering solutions, analytics workflows, and backend application development.
+
+My goal is to build reliable, scalable, and efficient systems that transform raw data into valuable insights.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Expertise
 
-### Programming Languages
+### 📊 Data Engineering
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+✔ End-to-End ETL / ELT Pipelines
 
-### Backend Development
+✔ Microsoft Fabric Data Solutions
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+✔ Lakehouse Architecture
 
-### Databases
+✔ Medallion Architecture (Bronze • Silver • Gold)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+✔ Data Modeling & Transformation
 
-### Data Analytics
+✔ Data Quality & Validation
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+✔ Performance Optimization
 
 ---
 
-## 💼 Experience
+### ☕ Backend Development
 
-### Java Backend Developer | Growthera Ventures Technologies
+✔ Java Application Development
 
-📅 June 2025 – May 2026
+✔ Spring Boot
 
-- Developed enterprise backend applications using Java & Spring Boot
-- Designed secure RESTful APIs
-- Implemented JWT Authentication & Spring Security
-- Integrated MySQL using Spring Data JPA & Hibernate
-- Optimized API performance and database queries
-- Collaborated with frontend teams for end-to-end feature delivery
+✔ REST API Development
+
+✔ Authentication & Authorization
+
+✔ Database Design
+
+✔ System Integration
+
+✔ Scalable Backend Services
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Arsenal
 
-### 🛒 E-Commerce Backend System
+<p align="center">
 
-- Scalable backend architecture using Spring Boot
-- JWT Authentication & Role-Based Access Control
-- Product, Cart & Order Management APIs
-- MySQL + Hibernate Integration
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,spring" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 📈 Retail Sales Data Pipeline & BI Dashboard
+
+🔹 Multi-source data ingestion
+
+🔹 Lakehouse Architecture Implementation
+
+🔹 PySpark Data Processing
+
+🔹 SQL-Based Business Metrics
+
+🔹 Interactive Power BI Reporting
+
+**Tech Stack:** Microsoft Fabric • PySpark • SQL • Power BI
+
+---
 
 ### 📊 Customer Churn Analytics Platform
 
-- ETL Pipelines using Microsoft Fabric & Databricks
-- Customer Segmentation & Churn Analysis
-- Interactive Power BI Dashboards
-- Automated Reporting Workflows
+🔹 Customer Segmentation
 
-### 🤖 Police Face Recognition System
+🔹 Churn Prediction Analytics
 
-- Research publication focused on secure face recognition
-- AI-powered identification and verification workflows
+🔹 ETL Pipeline Development
 
----
+🔹 Business KPI Monitoring
 
-## 📜 Certifications
+🔹 Automated Reporting
 
-- NPTEL Cloud Computing
-- Cyber Incident Report
-- Programming in C++
-- Mastering Data Structures & Algorithms
+**Tech Stack:** Microsoft Fabric • Databricks • PySpark • SQL • Power BI
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh1918&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1918&layout=compact&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh1918&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1918&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=utkarsh1918&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1918&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
 
-- GitHub: https://github.com/utkarsh1918
-- LinkedIn: https://linkedin.com/in/utkarsh-singh-114755252
-- Email: utkarsh200119singh@gmail.com
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=utkarsh1918&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-## 👀 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=utkarsh1918&color=blue)
+</p>
 
 ---
 
-### ⭐ “Building scalable backend systems and transforming data into insights.”
+## 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh1918&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:utkarsh200119singh@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/utkarsh-singh-114755252">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/utkarsh1918">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 "Transforming Data Into Insights & Building Solutions That Scale"
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
